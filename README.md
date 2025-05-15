@@ -39,10 +39,11 @@ I have a strong interest in Machine Learning and Data Science. I enjoy exploring
 ### 🎯 Current Projects
 | Project Name          | Description                                           | Link                                      |
 |----------------------|-------------------------------------------------------|-------------------------------------------|
-| Open Manus Agent        | An microservices-based application for managing browser vi AI with Telegram interestiom.       | [View Open Manus] (https://github.com/ErnestoAizenberg/open-manus-agent) |
+| Open Manus Agent | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
 | Cakeworld        | A big web application with stong auth, game, chat and forum services.    | [View Cakeworld](https://github.com/ErnestoAizenberg/cakeworld) |
 | Entsearch        | Web application for creating and uploading entity datasets and allowing to search entities in text from them.    | [View Entsearch](https://github.com/ErnestoAizenberg/entsearch) |
-| Jetski        | A machine learning model for predictive analysis of whater crafts.    | [View Jetski](https://github.com/ErnestoAizenberg/jetski) |
+| JetSki Video Tracking System
+       | Computer vision system for detecting and tracking jetskis in video streams using YOLOv8.    | [View Jetski](https://github.com/ErnestoAizenberg/jetski-traker) |
 
 ---
 
