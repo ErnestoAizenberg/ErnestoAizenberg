@@ -18,8 +18,8 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 ## 💻 Skills
 
 ### Languages & Technologies:
-- Programming Languages: Python, HTML, CSS, JavaScript
-- Frameworks: Flask, SQL, Redis
+- Programming Languages: Python, SQL, HTML, CSS, JavaScript
+- Frameworks: Flask/FastAPI, Redis/SQLAlchemy, Tailwind CSS/Bootstrap, AnimeJS
 - Machine Learning: Keras, TensorFlow, PyTorch
 - Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, spaCy
 
