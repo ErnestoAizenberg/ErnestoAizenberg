@@ -1,8 +1,11 @@
 # 👋 Hello, I'm Ernesto Seredinsky!
 
 I'm a passionate Developer and Data Scientist with expertise in building innovative applications and performing data analysis. I love tackling challenging projects that require creative problem-solving and deep learning skills.
-
+I have a strong interest in Machine Learning and Data Science. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.
 ---
+## Languages
+- English (Fluent)
+- Russian (Fluent)
 
 ## Contact Information
 
@@ -22,17 +25,6 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 - Frameworks: Flask/FastAPI, Redis/SQLAlchemy, Tailwind CSS/Bootstrap, AnimeJS
 - Machine Learning: Keras, TensorFlow, PyTorch
 - Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, spaCy
-
----
-
-## Languages
-- English (Fluent)
-- Russian (Fluent)
-
----
-
-## 🚀 About Me
-I have a strong interest in Machine Learning and Data Science. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.
 
 ---
 
