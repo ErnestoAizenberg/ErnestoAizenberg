@@ -4,7 +4,7 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 
 ---
 
-## 📫 Contact Information
+## Contact Information
 
 | Method     | Contact                                      |
 |------------|----------------------------------------------|
@@ -15,7 +15,7 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 
 ---
 
-## 💻 Skills
+## Skills
 
 ### Languages & Technologies:
 - Programming Languages: Python, SQL, HTML, CSS, JavaScript
@@ -25,7 +25,7 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 
 ---
 
-## 🌐 Languages
+## Languages
 - English (Fluent)
 - Russian (Fluent)
 
@@ -36,7 +36,7 @@ I have a strong interest in Machine Learning and Data Science. I enjoy exploring
 
 ---
 
-### 🎯 Current Projects
+### My Projects
 | Project Name          | Description                                           | Link                                      |
 |----------------------|-------------------------------------------------------|-------------------------------------------|
 | Open Manus Agent | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
@@ -55,7 +55,7 @@ I have a strong interest in Machine Learning and Data Science. I enjoy exploring
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 ---
 
-## 🌟 Connect with Me!
+## Connect with Me!
 Feel free to connect with me on social media or check out my projects. I'm always looking for opportunities to learn and collaborate! 
 
 ---
