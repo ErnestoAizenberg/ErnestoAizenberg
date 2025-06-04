@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Ernesto Seredinsky!
 
-I'm a passionate Developer and Data Scientist with expertise in building innovative applications and performing data analysis. I love tackling challenging projects that require creative problem-solving and deep learning skills.
-I have a strong interest in Machine Learning and Data Science. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.
+I'm a passionate Developer and Data Scientist with expertise in building innovative applications and performing data analysis. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.
 ---
 ## Languages
 - English (Fluent)
