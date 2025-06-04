@@ -17,17 +17,6 @@ I have a strong interest in Machine Learning and Data Science. I enjoy exploring
 | GitHub | [ErnestoAizenberg](https://github.com/ErnestoAizenberg) |
 
 ---
-
-### My Projects
-| Project Name          | Description                                           | Link                                      |
-|----------------------|-------------------------------------------------------|-------------------------------------------|
-| Open Manus Agent | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
-| Cakeworld        | A big web application with stong auth, game, chat and forum services.    | [View Cakeworld](https://github.com/ErnestoAizenberg/cakeworld) |
-| Entity Dataset Manager | Application for creating and uploading entity datasets and allowing to search entities in text from them. | [View Entsearch](https://github.com/ErnestoAizenberg/entsearch) |
-| JetSki Video Tracking System | Computer vision system for detecting and tracking jetskis in video streams using YOLOv8. | [View Jetski](https://github.com/ErnestoAizenberg/jetski-tracker) |
-
----
-
 ## 🔧 Tools and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,6 +29,17 @@ I have a strong interest in Machine Learning and Data Science. I enjoy exploring
 - Frameworks: Flask/FastAPI, Redis/SQLAlchemy, Tailwind CSS/Bootstrap, AnimeJS
 - Machine Learning: Keras, TensorFlow, PyTorch
 - Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, spaCy
+---
+
+
+### My Projects
+| Project Name          | Description                                           | Link                                      |
+|----------------------|-------------------------------------------------------|-------------------------------------------|
+| Open Manus Agent | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
+| Cakeworld        | A big web application with stong auth, game, chat and forum services.    | [View Cakeworld](https://github.com/ErnestoAizenberg/cakeworld) |
+| Entity Dataset Manager | Application for creating and uploading entity datasets and allowing to search entities in text from them. | [View Entsearch](https://github.com/ErnestoAizenberg/entsearch) |
+| JetSki Video Tracking System | Computer vision system for detecting and tracking jetskis in video streams using YOLOv8. | [View Jetski](https://github.com/ErnestoAizenberg/jetski-tracker) |
+
 ---
 
 ## Connect with Me!
