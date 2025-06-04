@@ -18,16 +18,6 @@ I have a strong interest in Machine Learning and Data Science. I enjoy exploring
 
 ---
 
-## Skills
-
-### Languages & Technologies:
-- Programming Languages: Python, SQL, HTML, CSS, JavaScript
-- Frameworks: Flask/FastAPI, Redis/SQLAlchemy, Tailwind CSS/Bootstrap, AnimeJS
-- Machine Learning: Keras, TensorFlow, PyTorch
-- Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, spaCy
-
----
-
 ### My Projects
 | Project Name          | Description                                           | Link                                      |
 |----------------------|-------------------------------------------------------|-------------------------------------------|
@@ -45,6 +35,11 @@ I have a strong interest in Machine Learning and Data Science. I enjoy exploring
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+#### Languages & Technologies:
+- Programming Languages: Python, SQL, HTML, CSS, JavaScript
+- Frameworks: Flask/FastAPI, Redis/SQLAlchemy, Tailwind CSS/Bootstrap, AnimeJS
+- Machine Learning: Keras, TensorFlow, PyTorch
+- Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, spaCy
 ---
 
 ## Connect with Me!
