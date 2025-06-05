@@ -1,5 +1,12 @@
 # 👋 Hello, I'm Ernesto Seredinsky!
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 I'm a passionate Developer and Data Scientist with expertise in building innovative applications and performing data analysis. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.
 
 ## Languages
@@ -17,14 +24,6 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 
 ---
 ## 🔧 Tools and Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
 - Programming Languages: Python, SQL, HTML, CSS, JavaScript
 - Frameworks: Flask/FastAPI, Redis/SQLAlchemy, Tailwind CSS/Bootstrap, AnimeJS
 - Machine Learning: Keras, TensorFlow, PyTorch
