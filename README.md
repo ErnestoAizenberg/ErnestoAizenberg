@@ -22,8 +22,8 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-#### Languages & Technologies:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 - Programming Languages: Python, SQL, HTML, CSS, JavaScript
 - Frameworks: Flask/FastAPI, Redis/SQLAlchemy, Tailwind CSS/Bootstrap, AnimeJS
 - Machine Learning: Keras, TensorFlow, PyTorch
