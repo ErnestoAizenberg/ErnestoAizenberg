@@ -19,10 +19,13 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 ### My Projects
 | Project Name          | Description                                           | Link                                      |
 |----------------------|-------------------------------------------------------|-------------------------------------------|
-| Open Manus Agent | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
 | Cakeworld        | A big web application with stong auth, game, chat and forum services.    | [View Cakeworld](https://github.com/ErnestoAizenberg/cakeworld) |
 | Entity Dataset Manager | Application for creating and uploading entity datasets and allowing to search entities in text from them. | [View Entsearch](https://github.com/ErnestoAizenberg/entsearch) |
 | JetSki Video Tracking System | Computer vision system for detecting and tracking jetskis in video streams using YOLOv8. | [View Jetski](https://github.com/ErnestoAizenberg/jetski-tracker) |
+| Genshin-Location-Guesser | A web-based game where players guess locations from the world of Genshin Impact using an interactive map. | [View Genshin-Location-Guesser](https://github.com/ErnestoAizenberg/Genshin-Location-Guesser) |
+| Open Manus Agent | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
+| OM11MACOS | macOS Web UI for Open Manus Agent | [View OM11MACOS](https://github.com/ErnestoAizenberg/OM11MACOS) |
+| OM11TG | Telegram web service for Open Manus 11 agent | [View OM11TG](https://github.com/ErnestoAizenberg/OM11TG) |
 
 ---
 
