@@ -15,17 +15,6 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 
 ---
 
-<h1 align="center" style="border-bottom: 0 !important;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" style="vertical-align: middle !important;" />
-  My Stats
-</h1>
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=ErnestoAizenberg&theme=dark&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ErnestoAizenberg&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=360" />
-</div>
 
 ### My Projects
 | Project Name          | Description                                           | Link                                      |
@@ -38,6 +27,18 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 | Entity Dataset Manager | Application for creating and uploading entity datasets and allowing to search entities in text from them. | [View Entsearch](https://github.com/ErnestoAizenberg/entsearch) |
 | JetSki Video Tracking System | Computer vision system for detecting and tracking jetskis in video streams using YOLOv8. | [View Jetski](https://github.com/ErnestoAizenberg/jetski-tracker) |
 ---
+
+<h1 align="center" style="border-bottom: 0 !important;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" style="vertical-align: middle !important;" />
+  My Stats
+</h1>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=ErnestoAizenberg&theme=dark&border_radius=10" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ErnestoAizenberg&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=360" />
+</div>
 
 ## Contact Information
 
