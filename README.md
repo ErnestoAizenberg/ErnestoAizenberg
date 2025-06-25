@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hello, I'm Ernesto Seredinsky!
+<h1>👋 Hello, I'm Ernesto Seredinsky!</h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
