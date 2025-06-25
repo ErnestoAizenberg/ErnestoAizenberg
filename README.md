@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hello, I'm Ernesto Seredinsky!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -11,6 +12,7 @@
   <a href="https://ernestoseredinsky.pythonanywhere.com/">
     <img src="https://img.shields.io/badge/||_‎_‎_‎_‎_OPEN WEBSITE_‎_‎_‎_‎||-0969DA?style=for-the-badge&logoColor=white" alt="open website">
   </a>
+</div>
 
 I'm a passionate Developer and Data Scientist with expertise in building innovative applications and performing data analysis. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.
 
