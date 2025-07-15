@@ -26,6 +26,8 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 ### My Projects
 | Project Name          | Description                                           | Link                                      |
 |----------------------|-------------------------------------------------------|-------------------------------------------|
+| KZ-RU Name Detector | Predicts name origin (Kazakh/Russian) based on linguistic patterns.
+Deployed as a web app with Flask + Scikit-learn. | [View KZ-RU Name Detector](https://github.com/ErnestoAizenberg/kz-ru-name-detector) |
 | maria-tutor | Personal website for biology/chemistry tutor Maria Seredinskaya, built with Django | [View maria-tutor](https://github.com/ErnestoAizenberg/maria-tutor) |
 | Genshin-Location-Guesser | A web-based game where players guess locations from the world of Genshin Impact using an interactive map. | [View Genshin-Location-Guesser](https://github.com/ErnestoAizenberg/Genshin-Location-Guesser) |
 | Cakeworld        | A big web application with stong auth, game, chat and forum services.    | [View Cakeworld](https://github.com/ErnestoAizenberg/cakeworld) |
