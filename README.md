@@ -24,16 +24,15 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 
 
 ### My Projects
-| Project Name          | Description                                           | Link                                      |
-|----------------------|-------------------------------------------------------|-------------------------------------------|
-| KZ-RU Name Detector | Predicts name origin (Kazakh/Russian) based on linguistic patterns.
-Deployed as a web app with Flask + Scikit-learn. | [View KZ-RU Name Detector](https://github.com/ErnestoAizenberg/kz-ru-name-detector) |
-| maria-tutor | Personal website for biology/chemistry tutor Maria Seredinskaya, built with Django | [View maria-tutor](https://github.com/ErnestoAizenberg/maria-tutor) |
+| Project Name           | Description                                                                 | Link                                      |
+|------------------------|-----------------------------------------------------------------------------|-------------------------------------------|
+| KZ-RU Name Detector    | Predicts name origin (Kazakh/Russian) based on linguistic patterns. Deployed as a web app with Flask + Scikit-learn. | [View KZ-RU Name Detector](https://github.com/ErnestoAizenberg/kz-ru-name-detector) |
+| maria-tutor            | Personal website for biology/chemistry tutor Maria Seredinskaya, built with Django. | [View maria-tutor](https://github.com/ErnestoAizenberg/maria-tutor) |
 | Genshin-Location-Guesser | A web-based game where players guess locations from the world of Genshin Impact using an interactive map. | [View Genshin-Location-Guesser](https://github.com/ErnestoAizenberg/Genshin-Location-Guesser) |
-| Cakeworld        | A big web application with stong auth, game, chat and forum services.    | [View Cakeworld](https://github.com/ErnestoAizenberg/cakeworld) |
-| Open Manus Agent | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
-| OM11MACOS | macOS Web UI for Open Manus Agent | [View OM11MACOS](https://github.com/ErnestoAizenberg/OM11MACOS) |
-| OM11TG | Telegram web service for Open Manus 11 agent | [View OM11TG](https://github.com/ErnestoAizenberg/OM11TG) |
+| Cakeworld              | A big web application with strong auth, game, chat and forum services. | [View Cakeworld](https://github.com/ErnestoAizenberg/cakeworld) |
+| Open Manus Agent       | A microservices-based application for managing browser via AI with Telegram integration. | [View Open Manus](https://github.com/ErnestoAizenberg/open-manus-agent) |
+| OM11MACOS              | macOS Web UI for Open Manus Agent. | [View OM11MACOS](https://github.com/ErnestoAizenberg/OM11MACOS) |
+| OM11TG                 | Telegram web service for Open Manus 11 agent. | [View OM11TG](https://github.com/ErnestoAizenberg/OM11TG) |
 | Entity Dataset Manager | Application for creating and uploading entity datasets and allowing to search entities in text from them. | [View Entsearch](https://github.com/ErnestoAizenberg/entsearch) |
 | JetSki Video Tracking System | Computer vision system for detecting and tracking jetskis in video streams using YOLOv8. | [View Jetski](https://github.com/ErnestoAizenberg/jetski-tracker) |
 ---
