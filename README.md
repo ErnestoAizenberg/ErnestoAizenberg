@@ -49,15 +49,6 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=360" />
 </div>
 
-## Contact Information
-
-| Method     | Contact                                      |
-|------------|----------------------------------------------|
-| Email  | [sereernest@gmail.com](mailto:sereernest@gmail.com) |
-| Phone  | [+79213301390](tel:+79213301390)            |
-| Telegram| [@S_k_a_r_a_m_u_c_h_a](https://t.me/S_k_a_r_a_m_u_c_h_a) |
-| GitHub | [ErnestoAizenberg](https://github.com/ErnestoAizenberg) |
-
 ## Connect with Me!
 Feel free to connect with me on social media or check out my projects. I'm always looking for opportunities to learn and collaborate! 
 
