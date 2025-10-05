@@ -28,10 +28,10 @@ I'm a passionate Developer and Data Scientist with expertise in building innovat
 | **KZ-RU Name Detector** | A machine learning web app that classifies name origins (Kazakh/Russian) using linguistic features. | `Flask`, `Scikit-learn`, `Pandas` | [View](https://github.com/ErnestoAizenberg/kz-ru-name-detector) |
 | **Maria Tutor** | A personal website for biology/chemistry tutor Maria Seredinskaya. | `Django`, `HTML/CSS` | [View](https://github.com/ErnestoAizenberg/maria-tutor) |
 | **Genshin Location Guesser** | An interactive web game where players guess locations from the world of Genshin Impact on a map. | `JavaScript`, `Leaflet.js` | [View](https://github.com/ErnestoAizenberg/Genshin-Location-Guesser) |
-| **Cakeworld** | A comprehensive full-stack social platform with authentication, real-time chat, forum, and games. | `Django`, `JavaScript`, `WebSockets` | [View](https://github.com/ErnestoAizenberg/cakeworld) |
-| **Open Manus Agent** | A microservices-based AI assistant for browser automation with Telegram and macOS UI integration. | `FastAPI`, `Telegram API`, `Docker` | [View](https://github.com/ErnestoAizenberg/open-manus-agent) |
+| **Cakeworld** | A comprehensive full-stack social platform with authentication, real-time chat, forum, and games. | `Flask`, `JavaScript`, `WebSockets`, `Tailwind CSS` | [View](https://github.com/ErnestoAizenberg/cakeworld) |
+| **Open Manus Agent** | A microservices-based AI assistant for browser automation with Telegram and macOS UI integration. | `FastAPI`, `Flask`, `Playwright`, `Telegram API` | [View](https://github.com/ErnestoAizenberg/open-manus-agent) |
 | **JetSki Video Tracking** | A computer vision system for detecting and tracking jetskis in video streams using YOLOv8. | `Python`, `YOLOv8`, `OpenCV` | [View](https://github.com/ErnestoAizenberg/jetski-tracker) |
-| **Entity Dataset Manager** | A tool for creating, managing, and searching custom entity datasets within text. | `Django`, `NLP` | [View](https://github.com/ErnestoAizenberg/entsearch) |
+| **Entity Dataset Manager** | A tool for creating, managing, and searching custom entity datasets within text. | `Flask`, `NLP` | [View](https://github.com/ErnestoAizenberg/entsearch) |
 
 ---
 
