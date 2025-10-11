@@ -1,5 +1,6 @@
 <div align="center">
 <h1>👋 Hello, I'm Ernesto Seredinsky!</h1>
+<h3>Full Stack Developer & Data Scientist</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
