@@ -8,6 +8,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
   <a href="https://ernestoseredinsky.pythonanywhere.com/">
     <img src="https://img.shields.io/badge/||_‎_‎_‎_‎_OPEN WEBSITE_‎_‎_‎_‎||-0969DA?style=for-the-badge&logoColor=white" alt="open website">
