@@ -16,10 +16,6 @@
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
       <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="openpyxl"/>
     </div>
-    <br>
-    <a href="https://ernestoseredinsky.pythonanywhere.com/">
-      <img src="https://img.shields.io/badge/||_‎_‎_‎_‎_OPEN WEBSITE_‎_‎_‎_‎||-0969DA?style=for-the-badge&logoColor=white" alt="open website">
-    </a>
   </div>
 
   <!-- About Section -->
@@ -123,7 +119,9 @@
       </a>
     </div>
   </div>
-
+    <a href="https://ernestoseredinsky.pythonanywhere.com/">
+      <img src="https://img.shields.io/badge/||_‎_‎_‎_‎_OPEN WEBSITE_‎_‎_‎_‎||-0969DA?style=for-the-badge&logoColor=white" alt="open website">
+    </a>
   <!-- Languages Section -->
   <div align="center">
     <h3>🌐 Languages</h3>
