@@ -18,7 +18,7 @@
   </a>
 </div>
 
-I'm a passionate Developer and Data Scientist with expertise in building innovative applications and performing data analysis. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.
+<span>I'm a passionate Developer and Data Scientist with expertise in building innovative applications and performing data analysis. I enjoy exploring new technologies and applying them to solve real-world problems. In my spare time, I like contributing to open-source projects and participating in hackathons.</span>
 
 ## Languages
 - English (Fluent)
