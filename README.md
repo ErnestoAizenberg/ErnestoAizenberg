@@ -54,12 +54,6 @@
         <td><a href="https://github.com/ErnestoAizenberg/maria-tutor">Repo</a></td>
       </tr>
       <tr>
-        <td><strong>Genshin Location Guesser</strong></td>
-        <td>Web game guessing Genshin Impact map locations.</td>
-        <td>JavaScript, Leaflet.js</td>
-        <td><a href="https://github.com/ErnestoAizenberg/Genshin-Location-Guesser">Repo</a></td>
-      </tr>
-      <tr>
         <td><strong>Cakeworld</strong></td>
         <td>Full-stack social platform: chat, forum, games.</td>
         <td>Flask, JS, WebSockets, Tailwind CSS</td>
