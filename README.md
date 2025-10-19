@@ -102,8 +102,8 @@
       Always open to learning and collaboration!
     </p>
     <div>
-      <a href="https://www.linkedin.com/in/ernesto-seredinsky/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <a href="https://t.me/S_k_a_r_a_m_u_c_h_a" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
       </a>
       <a href="https://github.com/ErnestoAizenberg" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
