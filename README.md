@@ -117,32 +117,15 @@
       <img src="https://img.shields.io/badge/||_‎_‎_‎_‎_OPEN WEBSITE_‎_‎_‎_‎||-0969DA?style=for-the-badge&logoColor=white" alt="open website">
     </a>
   <!-- Languages Section -->
-<div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #e3e9f5 100%); padding: 24px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); border: 1px solid rgba(255,255,255,0.5);">
-  <h3 style="margin: 0 0 16px 0; color: #2c3e50; font-size: 1.4em; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <span style="font-size: 1.3em;">🌐</span> Languages
-  </h3>
-  <div style="display: flex; flex-direction: column; gap: 12px; max-width: 280px;">
-    <div style="display: flex; align-items: center; gap: 12px; padding: 10px 16px; background: white; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-      <span style="font-size: 1.5em;">🇺🇸</span>
-      <div style="flex: 1;">
-        <div style="font-weight: 600; color: #2c3e50;">English</div>
-        <div style="font-size: 0.85em; color: #7f8c8d;">Fluent</div>
-      </div>
-      <div style="width: 60px; height: 6px; background: #ecf0f1; border-radius: 3px; overflow: hidden;">
-        <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #3498db, #2980b9);"></div>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px; padding: 10px 16px; background: white; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-      <span style="font-size: 1.5em;">🇷🇺</span>
-      <div style="flex: 1;">
-        <div style="font-weight: 600; color: #2c3e50;">Russian</div>
-        <div style="font-size: 0.85em; color: #7f8c8d;">Fluent</div>
-      </div>
-      <div style="width: 60px; height: 6px; background: #ecf0f1; border-radius: 3px; overflow: hidden;">
-        <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #e74c3c, #c0392b);"></div>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <h3>🌐 Languages</h3>
+  <ul style="list-style: none; padding-left: 0; margin: 16px 0;">
+    <li style="margin: 8px 0; padding: 8px 16px; background: #f8f9fa; border-radius: 6px; border-left: 4px solid #007bff;">
+      <strong>English</strong> • Fluent
+    </li>
+    <li style="margin: 8px 0; padding: 8px 16px; background: #f8f9fa; border-radius: 6px; border-left: 4px solid #dc3545;">
+      <strong>Russian</strong> • Fluent
+    </li>
+  </ul>
 </div>
-
 </div>
