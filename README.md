@@ -105,9 +105,6 @@
       <a href="https://t.me/S_k_a_r_a_m_u_c_h_a" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
       </a>
-      <a href="https://github.com/ErnestoAizenberg" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
       <a href="mailto:sereernest@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
       </a>
