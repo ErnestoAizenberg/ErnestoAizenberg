@@ -110,9 +110,6 @@
       </a>
     </div>
   </div>
-    <a href="https://ernestoseredinsky.pythonanywhere.com/">
-      <img src="https://img.shields.io/badge/||_‎_‎_‎_‎_OPEN WEBSITE_‎_‎_‎_‎||-0969DA?style=for-the-badge&logoColor=white" alt="open website">
-    </a>
   <!-- Languages Section -->
 <div align="center">
   <h3>🌐 Languages</h3>
