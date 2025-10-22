@@ -103,7 +103,7 @@
     </p>
     <div>
       <a href="https://t.me/S_k_a_r_a_m_u_c_h_a" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
       </a>
       <a href="mailto:sereernest@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
