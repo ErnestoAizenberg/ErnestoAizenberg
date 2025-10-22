@@ -102,7 +102,7 @@
       Always open to learning and collaboration!
     </p>
     <div>
-      <a href="https://t.me/S_k_a_r_a_m_u_c_h_a" target="_blank">
+      <a href="https://t.me/S_k_a_r_a_m_u_c_h_a" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
       </a>
       <a href="mailto:sereernest@gmail.com" target="_blank">
