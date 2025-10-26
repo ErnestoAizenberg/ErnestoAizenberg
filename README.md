@@ -94,6 +94,12 @@
   </div>
   <hr>
 
+<div align="center">
+  <h2>📈 Coding Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErnestoAizenberg&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+<hr>
+
   <!-- Contact Section -->
   <div align="center">
     <h2>🤝 Connect with Me!</h2>
