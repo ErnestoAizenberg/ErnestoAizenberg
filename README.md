@@ -27,6 +27,30 @@
     </span>
   </div>
 
+  <div align="center" style="margin-top: 30px;">
+    <h2>📱 My Telegram Channel</h2>
+    <p style="font-size: 1.1em;">
+      Join my Telegram channel dedicated to <strong>Termux tutorials and mobile development</strong>!<br>
+      Learn Linux commands, automation scripts, and cool tricks for your mobile device.
+    </p>
+    <a href="https://t.me/termux_pakages" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TERMUX_CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Termux Telegram Channel"/>
+    </a>
+    <br><br>
+    <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; max-width: 600px; margin: 0 auto;">
+      <h4 style="margin-top: 0;">🎯 Channel Content:</h4>
+      <ul style="text-align: left; display: inline-block;">
+        <li>Termux setup & configuration</li>
+        <li>Linux commands & bash scripting</li>
+        <li>Python automation on mobile</li>
+        <li>SSH & remote access tutorials</li>
+        <li>Useful tools and packages</li>
+        <li>Mobile development tips</li>
+      </ul>
+    </div>
+  </div>
+  <hr>
+
   <!-- Projects Section -->
   <div align="center">
     <h2>🚀 My Projects</h2>
