@@ -37,17 +37,17 @@
       <img src="https://img.shields.io/badge/TERMUX_CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Termux Telegram Channel"/>
     </a>
     <br><br>
-    <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; max-width: 600px; margin: 0 auto;">
-      <h4 style="margin-top: 0;">🎯 Channel Content:</h4>
-      <ul style="text-align: left; display: inline-block;">
-        <li>Termux setup & configuration</li>
-        <li>Linux commands & bash scripting</li>
-        <li>Python automation on mobile</li>
-        <li>SSH & remote access tutorials</li>
-        <li>Useful tools and packages</li>
-        <li>Mobile development tips</li>
-      </ul>
-    </div>
+<div style="background:#f8f9fa;padding:15px;border-radius:10px;max-width:600px;margin:0 auto">
+  <h4 style="margin-top:0">🎯 Channel Content:</h4>
+  <ul style="text-align:left;display:inline-block;margin:0;padding-left:20px">
+    <li>Termux setup & configuration</li>
+    <li>Linux commands & bash scripting</li>
+    <li>Python automation on mobile</li>
+    <li>SSH & remote access tutorials</li>
+    <li>Useful tools and packages</li>
+    <li>Mobile development tips</li>
+  </ul>
+</div>
   </div>
   <hr>
 
