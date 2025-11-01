@@ -38,7 +38,7 @@
     </a>
     <br><br>
 <div style="background: #f8f9fa; border-radius: 8px; max-width: 500px; margin: 0 auto;">
-  <h4 style="margin: 0 0 8px 0; font-size: 14px;">🎯 Channel Content:</h4>
+  <h4 style="font-size: 14px;">🎯 Channel Content:</h4>
   <div style="font-size: 13px; line-height: 1.4;">
     Termux setup • Linux commands • Python automation • SSH tutorials • Useful tools • Mobile dev tips
   </div>
