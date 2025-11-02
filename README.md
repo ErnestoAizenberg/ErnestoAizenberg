@@ -36,7 +36,7 @@
     <a href="https://t.me/termux_pakages" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/TERMUX_CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Termux Telegram Channel"/>
     </a>
-    <br><br>
+    <br>
 <div style="background: #f8f9fa; border-radius: 8px; max-width: 500px; margin: 0 auto;">
   <h4 style="font-size: 14px;">🎯 Channel Content:</h4>
   <div style="font-size: 13px; line-height: 1.4;">
