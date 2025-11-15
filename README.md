@@ -164,10 +164,3 @@
     <strong>Russian</strong> • Native
   </p>
 </div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/ErnestoAizenberg/ErnestoAizenberg/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</div>
