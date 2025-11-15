@@ -29,7 +29,6 @@
   <div style="flex: 0 0 auto;">
     <h3>🌐 Languages</h3>
     <p><strong>English</strong> • Fluent<br/><strong>Russian</strong> • Native</p>
-    
     <h3>📱 Connect</h3>
     <div style="display: flex; flex-direction: column; gap: 5px;">
       <a href="https://t.me/S_k_a_r_a_m_u_c_h_a" target="_blank">
@@ -67,7 +66,6 @@
 <div align="center">
   <h2>🚀 Projects</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; max-width: 900px; margin: 0 auto;">
-    
     <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; text-align: left;">
       <h4 style="margin: 0 0 8px 0;">🔍 KZ-RU Name Detector</h4>
       <p style="margin: 0 0 8px 0; font-size: 0.9em;">ML web app classifying names by Kazakh/Russian origin</p>
@@ -78,7 +76,6 @@
         </a>
       </div>
     </div>
-
     <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; text-align: left;">
       <h4 style="margin: 0 0 8px 0;">🧬 Maria Tutor</h4>
       <p style="margin: 0 0 8px 0; font-size: 0.9em;">Biology/chemistry tutor website with booking</p>
@@ -89,7 +86,6 @@
         </a>
       </div>
     </div>
-
     <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; text-align: left;">
       <h4 style="margin: 0 0 8px 0;">🎂 Cakeworld</h4>
       <p style="margin: 0 0 8px 0; font-size: 0.9em;">Social platform with chat & mini-games</p>
