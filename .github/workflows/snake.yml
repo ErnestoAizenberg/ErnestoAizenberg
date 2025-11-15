@@ -1,35 +1,30 @@
-name: Update Snake Animation
+name: Snake Game
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
-  push:
-    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Generate Snake
-        uses: jaywcjlove/github-action-snake@main
-        with:
-          # You can customize these options
-          gif: true
-          svg: true
-          
-      - name: Push to Repository
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v4
+      
+      - name: Generate snake.svg
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update snake animation" || exit 0
+          curl -o snake.svg "https://raw.githubusercontent.com/ErnestoAizenberg/ErnestoAizenberg/output/github-contribution-grid-snake.svg" || true
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add snake.svg || true
+          git commit -m "Update snake" || exit 0
           git push
