@@ -65,39 +65,54 @@
 <!-- Проекты в компактной сетке -->
 <div align="center">
   <h2>🚀 Projects</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; max-width: 900px; margin: 0 auto;">
-    <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; text-align: left;">
-      <h4 style="margin: 0 0 8px 0;">🔍 KZ-RU Name Detector</h4>
-      <p style="margin: 0 0 8px 0; font-size: 0.9em;">ML web app classifying names by Kazakh/Russian origin</p>
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <code style="font-size: 0.8em;">Flask • Scikit-learn • Pandas</code>
-        <a href="https://github.com/ErnestoAizenberg/kz-ru-name-detector">
-          <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="View Repo">
-        </a>
-      </div>
-    </div>
-    <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; text-align: left;">
-      <h4 style="margin: 0 0 8px 0;">🧬 Maria Tutor</h4>
-      <p style="margin: 0 0 8px 0; font-size: 0.9em;">Biology/chemistry tutor website with booking</p>
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <code style="font-size: 0.8em;">Django • HTML/CSS • JavaScript</code>
-        <a href="https://github.com/ErnestoAizenberg/maria-tutor">
-          <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="View Repo">
-        </a>
-      </div>
-    </div>
-    <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; text-align: left;">
-      <h4 style="margin: 0 0 8px 0;">🎂 Cakeworld</h4>
-      <p style="margin: 0 0 8px 0; font-size: 0.9em;">Social platform with chat & mini-games</p>
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <code style="font-size: 0.8em;">Flask • WebSockets • Tailwind</code>
-        <a href="https://github.com/ErnestoAizenberg/cakeworld">
-          <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="View Repo">
-        </a>
-      </div>
-    </div>
-
-  </div>
+  <table align="center">
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Tech</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>KZ-RU Name Detector</strong></td>
+        <td>ML web app classifying Kazakh/Russian name origins.</td>
+        <td>Flask, Scikit-learn, Pandas</td>
+        <td><a href="https://github.com/ErnestoAizenberg/kz-ru-name-detector">Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>Maria Tutor</strong></td>
+        <td>Personal website for a biology/chemistry tutor.</td>
+        <td>Django, HTML/CSS</td>
+        <td><a href="https://github.com/ErnestoAizenberg/maria-tutor">Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>Cakeworld</strong></td>
+        <td>Full-stack social platform: chat, forum, games.</td>
+        <td>Flask, JS, WebSockets, Tailwind CSS</td>
+        <td><a href="https://github.com/ErnestoAizenberg/cakeworld">Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>Open Manus Agent</strong></td>
+        <td>Microservices AI assistant for browser automation.</td>
+        <td>FastAPI, Flask, Playwright, Telegram API</td>
+        <td><a href="https://github.com/ErnestoAizenberg/open-manus-agent">Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>JetSki Video Tracking</strong></td>
+        <td>Computer vision jetski tracker using YOLOv8.</td>
+        <td>Python, YOLOv8, OpenCV</td>
+        <td><a href="https://github.com/ErnestoAizenberg/jetski-tracker">Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>Entity Dataset Manager</strong></td>
+        <td>Tool for managing/searching entity datasets in text.</td>
+        <td>Flask, NLP</td>
+        <td><a href="https://github.com/ErnestoAizenberg/entsearch">Repo</a></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
