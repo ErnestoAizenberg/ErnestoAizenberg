@@ -136,7 +136,6 @@
 <!-- Contact Section -->
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="25" height="25" />
     Let's Connect!
   </h2>
   <p>Feel free to reach out for collaboration or just a friendly chat 👋</p>
