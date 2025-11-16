@@ -25,6 +25,7 @@
     </p>
   </div>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10" alt="Top Languages" />
 
 ---
 
@@ -108,7 +109,6 @@
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; max-width: 800px;">
     <img src="https://github-readme-stats.vercel.app/api?username=ErnestoAizenberg&show_icons=true&theme=vision-friendly-dark&border_radius=10&count_private=true" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ErnestoAizenberg&theme=dark&border_radius=10" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10" alt="Top Languages" />
   </div>
   <div style="margin-top: 15px;">
     <img src="https://github-profile-trophy.vercel.app/?username=ErnestoAizenberg&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" width="100%" />
