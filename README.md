@@ -51,10 +51,10 @@
       Termux & Linux Channel
     </h4>
     <p style="margin: 0 0 10px 0; font-size: 0.9em;">Learn commands, automation scripts, and mobile development tricks</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; font-size: 0.8em;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 0.8em;">
       <span>🔧 Termux setup</span><span>🐧 Linux commands</span><span>🤖 Automation</span><span>🔗 SSH & Network</span>
     </div>
-    <a href="https://t.me/termux_pakages" target="_blank" style="display: inline-block; margin-top: 10px;">
+    <a href="https://t.me/termux_pakages" target="_blank" style="display: inline-block; gap: 8px;">
       <img src="https://img.shields.io/badge/Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Termux Telegram Channel"/>
     </a>
   </div>
