@@ -25,7 +25,7 @@
     </p>
   </div>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10" alt="Top Languages" /><img src='https://img.shields.io/badge/EN-Fluent-blue'><img src='https://img.shields.io/badge/RU-Native-red'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10" alt="Top Languages" /><img src='https://img.shields.io/badge/EN-Fluent-blue' style='display: flex;'><img src='https://img.shields.io/badge/RU-Native-red' style='display: flex;'>
 
 ---
 
