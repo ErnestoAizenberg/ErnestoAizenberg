@@ -32,26 +32,6 @@
 
 ---
 
-<!-- Telegram Channel компактно -->
-<div align="center">
-  <div style="display: inline-block; background: #1a1a1a; border-radius: 10px; padding: 15px; max-width: 600px;">
-    <h4 style="margin: 0 0 10px 0; color: #22D3EE;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" />
-      Termux & Linux Channel
-    </h4>
-    <p style="font-size: 0.9em;">Learn commands, automation scripts, and mobile development tricks</p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 0.8em;">
-      <span>🔧 Termux setup</span><span>🐧 Linux commands</span><span>🤖 Automation</span><span>🔗 SSH & Network</span>
-    </div>
-    <a href="https://t.me/termux_pakages" target="_blank" style="display: inline-block">
-      <img src="https://img.shields.io/badge/Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Termux Telegram Channel"/>
-    </a>
-  </div>
-</div>
-
----
-
-<!-- Проекты в компактной сетке -->
 <div align="center">
   <h2>🚀 Projects</h2>
   <table align="center">
@@ -116,5 +96,21 @@
   </div>
   <div style="margin-top: 15px;">
     <img src="https://github-profile-trophy.vercel.app/?username=ErnestoAizenberg&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" width="100%" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: inline-block; background: #1a1a1a; border-radius: 10px; padding: 15px; max-width: 600px;">
+    <h4 style="margin: 0 0 10px 0; color: #22D3EE;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" />
+      Termux & Linux Channel
+    </h4>
+    <p style="font-size: 0.9em;">Learn commands, automation scripts, and mobile development tricks</p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 0.8em;">
+      <span>🔧 Termux setup</span><span>🐧 Linux commands</span><span>🤖 Automation</span><span>🔗 SSH & Network</span>
+    </div>
+    <a href="https://t.me/termux_pakages" target="_blank" style="display: inline-block">
+      <img src="https://img.shields.io/badge/Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Termux Telegram Channel"/>
+    </a>
   </div>
 </div>
