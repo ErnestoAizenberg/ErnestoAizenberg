@@ -65,54 +65,81 @@
 <!-- Проекты в компактной сетке -->
 <div align="center">
   <h2>🚀 Projects</h2>
-  <table align="center">
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Tech</th>
-        <th>Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>KZ-RU Name Detector</strong></td>
-        <td>ML web app classifying Kazakh/Russian name origins.</td>
-        <td>Flask, Scikit-learn, Pandas</td>
-        <td><a href="https://github.com/ErnestoAizenberg/kz-ru-name-detector">Repo</a></td>
-      </tr>
-      <tr>
-        <td><strong>Maria Tutor</strong></td>
-        <td>Personal website for a biology/chemistry tutor.</td>
-        <td>Django, HTML/CSS</td>
-        <td><a href="https://github.com/ErnestoAizenberg/maria-tutor">Repo</a></td>
-      </tr>
-      <tr>
-        <td><strong>Cakeworld</strong></td>
-        <td>Full-stack social platform: chat, forum, games.</td>
-        <td>Flask, JS, WebSockets, Tailwind CSS</td>
-        <td><a href="https://github.com/ErnestoAizenberg/cakeworld">Repo</a></td>
-      </tr>
-      <tr>
-        <td><strong>Open Manus Agent</strong></td>
-        <td>Microservices AI assistant for browser automation.</td>
-        <td>FastAPI, Flask, Playwright, Telegram API</td>
-        <td><a href="https://github.com/ErnestoAizenberg/open-manus-agent">Repo</a></td>
-      </tr>
-      <tr>
-        <td><strong>JetSki Video Tracking</strong></td>
-        <td>Computer vision jetski tracker using YOLOv8.</td>
-        <td>Python, YOLOv8, OpenCV</td>
-        <td><a href="https://github.com/ErnestoAizenberg/jetski-tracker">Repo</a></td>
-      </tr>
-      <tr>
-        <td><strong>Entity Dataset Manager</strong></td>
-        <td>Tool for managing/searching entity datasets in text.</td>
-        <td>Flask, NLP</td>
-        <td><a href="https://github.com/ErnestoAizenberg/entsearch">Repo</a></td>
-      </tr>
-    </tbody>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 1200px; margin: 0 auto;">
+  
+  <!-- Card 1 -->
+  <div style="flex: 1 1 300px; max-width: 350px; background: #f8f9fa; border-radius: 10px; padding: 16px; border-left: 4px solid #22D3EE;">
+    <h4 style="margin: 0 0 8px 0; color: #1a1a1a;">🔍 KZ-RU Name Detector</h4>
+    <p style="margin: 0 0 12px 0; font-size: 0.9em; color: #555;">ML web app classifying Kazakh/Russian name origins.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <code style="font-size: 0.8em; background: #e9ecef; padding: 4px 8px; border-radius: 4px;">Flask, Scikit-learn</code>
+      <a href="https://github.com/ErnestoAizenberg/kz-ru-name-detector" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="Repo">
+      </a>
+    </div>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="flex: 1 1 300px; max-width: 350px; background: #f8f9fa; border-radius: 10px; padding: 16px; border-left: 4px solid #10B981;">
+    <h4 style="margin: 0 0 8px 0; color: #1a1a1a;">🧬 Maria Tutor</h4>
+    <p style="margin: 0 0 12px 0; font-size: 0.9em; color: #555;">Personal website for a biology/chemistry tutor.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <code style="font-size: 0.8em; background: #e9ecef; padding: 4px 8px; border-radius: 4px;">Django, HTML/CSS</code>
+      <a href="https://github.com/ErnestoAizenberg/maria-tutor" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="Repo">
+      </a>
+    </div>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="flex: 1 1 300px; max-width: 350px; background: #f8f9fa; border-radius: 10px; padding: 16px; border-left: 4px solid #F59E0B;">
+    <h4 style="margin: 0 0 8px 0; color: #1a1a1a;">🎂 Cakeworld</h4>
+    <p style="margin: 0 0 12px 0; font-size: 0.9em; color: #555;">Full-stack social platform: chat, forum, games.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <code style="font-size: 0.8em; background: #e9ecef; padding: 4px 8px; border-radius: 4px;">Flask, WebSockets</code>
+      <a href="https://github.com/ErnestoAizenberg/cakeworld" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="Repo">
+      </a>
+    </div>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="flex: 1 1 300px; max-width: 350px; background: #f8f9fa; border-radius: 10px; padding: 16px; border-left: 4px solid #8B5CF6;">
+    <h4 style="margin: 0 0 8px 0; color: #1a1a1a;">🤖 Open Manus Agent</h4>
+    <p style="margin: 0 0 12px 0; font-size: 0.9em; color: #555;">Microservices AI assistant for browser automation.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <code style="font-size: 0.8em; background: #e9ecef; padding: 4px 8px; border-radius: 4px;">FastAPI, Playwright</code>
+      <a href="https://github.com/ErnestoAizenberg/open-manus-agent" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="Repo">
+      </a>
+    </div>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="flex: 1 1 300px; max-width: 350px; background: #f8f9fa; border-radius: 10px; padding: 16px; border-left: 4px solid #EF4444;">
+    <h4 style="margin: 0 0 8px 0; color: #1a1a1a;">🚤 JetSki Tracker</h4>
+    <p style="margin: 0 0 12px 0; font-size: 0.9em; color: #555;">Computer vision jetski tracker using YOLOv8.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <code style="font-size: 0.8em; background: #e9ecef; padding: 4px 8px; border-radius: 4px;">YOLOv8, OpenCV</code>
+      <a href="https://github.com/ErnestoAizenberg/jetski-tracker" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="Repo">
+      </a>
+    </div>
+  </div>
+
+  <!-- Card 6 -->
+  <div style="flex: 1 1 300px; max-width: 350px; background: #f8f9fa; border-radius: 10px; padding: 16px; border-left: 4px solid #06B6D4;">
+    <h4 style="margin: 0 0 8px 0; color: #1a1a1a;">🔎 Entity Dataset Manager</h4>
+    <p style="margin: 0 0 12px 0; font-size: 0.9em; color: #555;">Tool for managing/searching entity datasets in text.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <code style="font-size: 0.8em; background: #e9ecef; padding: 4px 8px; border-radius: 4px;">Flask, NLP</code>
+      <a href="https://github.com/ErnestoAizenberg/entsearch" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View-000?style=flat-square&logo=github&logoColor=white" alt="Repo">
+      </a>
+    </div>
+  </div>
+
+</div>
 </div>
 
 ---
