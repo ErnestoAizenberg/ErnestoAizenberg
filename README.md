@@ -9,6 +9,10 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
     </div>
+    <div>
+        <img src="https://img.shields.io/badge/EN-Fluent-blue">
+        <img src="https://img.shields.io/badge/RU-Native-red">
+    </div>
   </div>
 </div>
 
@@ -27,8 +31,6 @@
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10" alt="Top Languages" />
-  <img src="https://img.shields.io/badge/EN-Fluent-blue">
-  <img src="https://img.shields.io/badge/RU-Native-red">
 </div>
 
 ---
