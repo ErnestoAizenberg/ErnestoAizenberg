@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Компактный хедер с типингом и баджами в одну линию -->
   <div style="display: inline-block; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ernesto+Seredinsky!;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ernesto+Seredinsky!;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />
     <div style="margin-top: 10px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
