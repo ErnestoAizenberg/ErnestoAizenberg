@@ -24,20 +24,6 @@
       <strong>Open to collaborations and new opportunities!</strong> 😊
     </p>
   </div>
-  
-  <div style="flex: 0 0 auto;">
-    <h3>🌐 Languages</h3>
-    <p><strong>English</strong> • Fluent<br/><strong>Russian</strong> • Native</p>
-    <h3>📱 Connect</h3>
-    <div style="display: flex; flex-direction: column; gap: 5px;">
-      <a href="https://t.me/S_k_a_r_a_m_u_c_h_a" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-      </a>
-      <a href="mailto:sereernest@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </div>
-  </div>
 </div>
 
 ---
