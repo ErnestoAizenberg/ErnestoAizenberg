@@ -50,7 +50,7 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" />
       Termux & Linux Channel
     </h4>
-    <p style="margin: 0 0 10px 0; font-size: 0.9em;">Learn commands, automation scripts, and mobile development tricks</p>
+    <p style="margin: 0 0 5px 0; font-size: 0.9em;">Learn commands, automation scripts, and mobile development tricks</p>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 0.8em;">
       <span>🔧 Termux setup</span><span>🐧 Linux commands</span><span>🤖 Automation</span><span>🔗 SSH & Network</span>
     </div>
