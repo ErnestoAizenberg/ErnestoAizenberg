@@ -17,7 +17,6 @@
 <!-- Компактная секция "About Me" и "Languages" вместе -->
 <div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <h2>👨‍💻 About Me</h2>
     <p style="text-align: left; font-size: 0.95em;">
       I'm a passionate <strong>Full Stack Developer & Data Scientist</strong> with a knack for building innovative applications and turning data into insights. 
       I thrive on exploring new technologies and applying them to solve real-world problems. 
