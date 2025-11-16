@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
     </div>
-    <div>
+    <div style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/EN-Fluent-blue">
         <img src="https://img.shields.io/badge/RU-Native-red">
     </div>
