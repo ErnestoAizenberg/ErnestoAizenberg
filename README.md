@@ -26,6 +26,7 @@
   </div>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&border_radius=10" alt="Top Languages" />
+![EN](https://img.shields.io/badge/EN-Fluent-blue) ![RU](https://img.shields.io/badge/RU-Native-red)
 
 ---
 
