@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- Динамический заголовок -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ernesto+Seredinsky!;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />
+  <!-- Стаимчный заголовок -->
+    <h1 style="margin-bottom: 0;">👋 Hello, I'm Ernesto Seredinsky!</h1>
+    <h3 style="margin-top: 0;">Full Stack Developer & Data Scientist</h3>
   
   <!-- Бейджи технологий -->
   <div style="margin-top: 10px;">
