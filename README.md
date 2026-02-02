@@ -33,7 +33,7 @@
       I'm a passionate <strong>Full Stack Developer & Data Scientist</strong> with a knack for building innovative applications and turning data into insights. 
       I thrive on exploring new technologies and applying them to solve real-world problems. 
       In my spare time, I contribute to open-source projects and participate in hackathons. 
-      <strong>Open to collaborations and new opportunities!</strong> 😊
+      <strong>Open to collaborations and new opportunities!</strong>
     </p>
   </div>
 </div>
