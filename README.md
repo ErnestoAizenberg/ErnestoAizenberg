@@ -42,7 +42,7 @@
 
 <!-- Проекты в улучшенной таблице -->
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
+  <h2>Projects</h2>
   
   <table align="center" style="width: 100%; max-width: 900px;">
     <thead>
@@ -114,7 +114,7 @@
 
 <!-- Компактная статистика -->
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2>GitHub Analytics</h2>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErnestoAizenberg&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
