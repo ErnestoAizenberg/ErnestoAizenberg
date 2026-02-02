@@ -139,10 +139,10 @@
       Learn commands, automation scripts, and mobile development tricks. Join our community!
     </p>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0; font-size: 0.85em;">
-      <span>🔧 Termux setup</span>
-      <span>🐧 Linux commands</span>
-      <span>🤖 Automation</span>
-      <span>🔗 SSH & Network</span>
+      <span>Termux setup</span>
+      <span>Linux commands</span>
+      <span>Automation</span>
+      <span>SSH & Network</span>
     </div>
     <a href="https://t.me/termux_pakages" target="_blank">
       <img src="https://img.shields.io/badge/Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Termux Telegram Channel"/>
