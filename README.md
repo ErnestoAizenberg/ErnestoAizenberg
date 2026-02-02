@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Стаимчный заголовок -->
-    <h1 style="margin-bottom: 0;">👋 Hello, I'm Ernesto Seredinsky!</h1>
+    <h1 style="margin-bottom: 0;">Hello, I'm Ernesto Seredinsky!</h1>
     <h3 style="margin-top: 0;">Full Stack Developer & Data Scientist</h3>
   
   <!-- Бейджи технологий -->
@@ -28,7 +28,7 @@
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
 
   <div style="flex: 1; min-width: 300px; text-align: left;">
-    <h3>👨‍💻 About Me</h3>
+    <h3>About Me</h3>
     <p>
       I'm a passionate <strong>Full Stack Developer & Data Scientist</strong> with a knack for building innovative applications and turning data into insights. 
       I thrive on exploring new technologies and applying them to solve real-world problems. 
