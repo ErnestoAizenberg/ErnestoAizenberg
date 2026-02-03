@@ -22,8 +22,6 @@
   </div>
 </div>
 
----
-
 <!-- Обо мне и контакты в одной линии -->
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
 
@@ -37,8 +35,6 @@
     </p>
   </div>
 </div>
-
----
 
 <!-- Проекты в улучшенной таблице -->
 <div align="center">
@@ -110,8 +106,6 @@
   </table>
 </div>
 
----
-
 <!-- Компактная статистика -->
 <div align="center">
   <h2>GitHub Analytics</h2>
@@ -125,8 +119,6 @@
   <!-- Трофеи -->
   <img src="https://github-profile-trophy.vercel.app/?username=ErnestoAizenberg&theme=onedark&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies" />
 </div>
-
----
 
 <!-- Канал в Telegram -->
 <div align="center">
