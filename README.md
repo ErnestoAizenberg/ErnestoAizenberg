@@ -115,9 +115,6 @@
     <img height="165" src="https://ernesto-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ErnestoAizenberg&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </div>
-  
-  <!-- Трофеи -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ErnestoAizenberg&theme=onedark&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <!-- Канал в Telegram -->
