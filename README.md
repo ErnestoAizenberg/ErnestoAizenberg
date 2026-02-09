@@ -111,8 +111,8 @@
   <h2>GitHub Analytics</h2>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErnestoAizenberg&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="165" src="https://ernesto-readme-stats.vercel.app/api?username=ErnestoAizenberg&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="165" src="https://ernesto-readme-stats.vercel.app/api/top-langs/?username=ErnestoAizenberg&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ErnestoAizenberg&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </div>
   
