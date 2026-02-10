@@ -38,7 +38,7 @@
 
 <!-- Проекты в улучшенной таблице -->
 <div align="center">
-  <h2>Projects</h2>
+  <h3>Projects</h3>
   
   <table align="center" style="width: 100%; max-width: 900px;">
     <thead>
