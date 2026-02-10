@@ -38,7 +38,7 @@
 
 <!-- Проекты в улучшенной таблице -->
 <div align="center">
-  <h3>Projects</h3>
+  <h3>Key Projects</h3>
   
   <table align="center" style="width: 100%; max-width: 900px;">
     <thead>
@@ -108,7 +108,7 @@
 
 <!-- Компактная статистика -->
 <div align="center">
-  <h2>GitHub Analytics</h2>
+  <h3>GitHub Analytics</h3>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
     <img height="165" src="https://ernesto-readme-stats.vercel.app/api?username=ErnestoAizenberg&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
