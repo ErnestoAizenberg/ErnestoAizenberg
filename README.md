@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Стаимчный заголовок -->
+  <!-- Статичный заголовок -->
     <h1 style="margin-bottom: 0;">Hello, I'm Ernesto Seredinsky!</h1>
     <h3 style="margin-top: 0;">Full Stack Developer & Data Scientist</h3>
   
