@@ -40,70 +40,72 @@
 <div align="center">
   <h3>Key Projects</h3>
   
-  <table align="center" style="width: 100%; max-width: 900px;">
-    <thead>
-      <tr>
-        <th style="text-align: left;">Project</th>
-        <th style="text-align: left;">Description</th>
-        <th style="text-align: center;">Tech</th>
-        <th style="text-align: center;">Links</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>KZ-RU Name Detector</strong></td>
-        <td>ML web app for classifying Kazakh/Russian name origins with high accuracy.</td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-          <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-        </td>
-        <td align="center">
-          <a href="https://github.com/ErnestoAizenberg/kz-ru-name-detector">
-            <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Open Manus Agent</strong></td>
-        <td>Microservices-based AI assistant for browser automation and task management.</td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-          <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-        </td>
-        <td align="center">
-          <a href="https://github.com/ErnestoAizenberg/open-manus-agent">
-            <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Cakeworld</strong></td>
-        <td>Full-stack social platform featuring real-time chat, forums, and interactive games.</td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets"/>
-        </td>
-        <td align="center">
-          <a href="https://github.com/ErnestoAizenberg/cakeworld">
-            <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>JetSki Video Tracking</strong></td>
-        <td>Computer vision system for jetski tracking and analysis using YOLOv8.</td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=white" alt="YOLO"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-        </td>
-        <td align="center">
-          <a href="https://github.com/ErnestoAizenberg/jetski-tracker">
-            <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <div style="overflow-x: auto;">
+    <table style="margin: 0 auto; width: 100%; max-width: 900px; border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th style="text-align: left; padding: 8px;">Project</th>
+          <th style="text-align: left; padding: 8px;">Description</th>
+          <th style="text-align: center; padding: 8px;">Tech</th>
+          <th style="text-align: center; padding: 8px;">Links</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 8px;"><strong>KZ-RU Name Detector</strong></td>
+          <td style="padding: 8px;">ML web app for classifying Kazakh/Russian name origins with high accuracy.</td>
+          <td align="center" style="padding: 8px;">
+            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+            <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+          </td>
+          <td align="center" style="padding: 8px;">
+            <a href="https://github.com/ErnestoAizenberg/kz-ru-name-detector">
+              <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;"><strong>Open Manus Agent</strong></td>
+          <td style="padding: 8px;">Microservices-based AI assistant for browser automation and task management.</td>
+          <td align="center" style="padding: 8px;">
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+            <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+          </td>
+          <td align="center" style="padding: 8px;">
+            <a href="https://github.com/ErnestoAizenberg/open-manus-agent">
+              <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;"><strong>Cakeworld</strong></td>
+          <td style="padding: 8px;">Full-stack social platform featuring real-time chat, forums, and interactive games.</td>
+          <td align="center" style="padding: 8px;">
+            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+            <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets"/>
+          </td>
+          <td align="center" style="padding: 8px;">
+            <a href="https://github.com/ErnestoAizenberg/cakeworld">
+              <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;"><strong>JetSki Video Tracking</strong></td>
+          <td style="padding: 8px;">Computer vision system for jetski tracking and analysis using YOLOv8.</td>
+          <td align="center" style="padding: 8px;">
+            <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=white" alt="YOLO"/>
+            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+          </td>
+          <td align="center" style="padding: 8px;">
+            <a href="https://github.com/ErnestoAizenberg/jetski-tracker">
+              <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
 
 <!-- Компактная статистика -->
