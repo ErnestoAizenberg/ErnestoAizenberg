@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Статичный заголовок -->
-    <h1 style="margin-bottom: 0;">Hello, I'm Ernesto Seredinsky!</h1>
+    <h1 style="margin-bottom: 0;">Hello, I'm Ernesto!</h1>
     <h3 style="margin-top: 0;">Full Stack Developer & Data Scientist</h3>
   
   <!-- Бейджи технологий -->
@@ -22,7 +22,6 @@
   </div>
 </div>
 
-<!-- Обо мне и контакты в одной линии -->
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
 
   <div style="flex: 1; min-width: 300px; text-align: left;">
@@ -36,7 +35,6 @@
   </div>
 </div>
 
-<!-- Проекты в улучшенной таблице -->
 <div align="center">
   <h3>Key Projects</h3>
   
@@ -108,7 +106,6 @@
   </div>
 </div>
 
-<!-- Компактная статистика -->
 <div align="center">
   <h3>GitHub Analytics</h3>
   
@@ -119,7 +116,6 @@
   </div>
 </div>
 
-<!-- Канал в Telegram -->
 <div align="center">
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 15px; padding: 20px; max-width: 600px; border: 1px solid #333;">
     <h3 style="margin: 0 0 10px 0; color: #22D3EE;">
